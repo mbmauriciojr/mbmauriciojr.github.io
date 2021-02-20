@@ -18,6 +18,13 @@ strong {
     color: #134053;
 }
 
+.listas-ul {
+    color: #F3FFBD;
+    font-size: 20px;
+}
 
+.lista-habilidade li{
+    font-weight: bold;
+}
 /*-
 - Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;*/
