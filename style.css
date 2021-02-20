@@ -31,3 +31,9 @@ strong {
     width: 300px;
     border-radius: 400px;
 }
+
+h3 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
