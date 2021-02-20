@@ -1,0 +1,39 @@
+#nome {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+#descricao-principal {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #247ba0;
+    color: white;
+}
+
+strong {
+    font-weight: bold;
+    color: #134053;
+}
+
+.listas-ul {
+    color: #F3FFBD;
+    font-size: 20px;
+}
+
+.lista-habilidade li{
+    font-weight: bold;
+}
+
+#foto-perfil {
+    width: 300px;
+    border-radius: 400px;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
