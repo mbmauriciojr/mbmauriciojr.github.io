@@ -26,5 +26,8 @@ strong {
 .lista-habilidade li{
     font-weight: bold;
 }
-/*-
-- Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;*/
+
+#foto-perfil {
+    width: 300px;
+    border-radius: 400px;
+}
