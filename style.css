@@ -1,9 +1,11 @@
 #nome {
     font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 
 #descricao-principal {
     font-family: sans-serif;
+    text-align: center;
 }
 
 body {
@@ -11,6 +13,11 @@ body {
     color: white;
 }
 
-/*- Defina uma cor base de background do seu Portfólio Web ;
-- Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
+strong {
+    font-weight: bold;
+    color: #134053;
+}
+
+
+/*-
 - Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;*/
