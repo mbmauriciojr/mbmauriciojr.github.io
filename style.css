@@ -25,6 +25,8 @@ strong {
 
 .lista-habilidade li{
     font-weight: bold;
+    display: inline-block;
+    margin: 10px;
 }
 
 #foto-perfil {
@@ -54,4 +56,8 @@ h3 {
 
 .div-texto {
     width: 300px;
+}
+
+.div-habilidades {
+    text-align: center;
 }
