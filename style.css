@@ -5,7 +5,7 @@
 
 #descricao-principal {
     font-family: sans-serif;
-    text-align: center;
+    text-align: center;   
 }
 
 body {
@@ -28,7 +28,7 @@ strong {
 }
 
 #foto-perfil {
-    width: 300px;
+    width: 200px;
     border-radius: 400px;
 }
 
@@ -36,4 +36,20 @@ h3 {
     font-family: sans-serif;
     font-weight: bold;
     font-size: 25px;
+}
+
+.apresenta-cont {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.div-foto, .div-texto {
+    display: inline-block;
+}
+
+.div-texto {
+    width: 300px;
 }
