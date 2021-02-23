@@ -30,6 +30,8 @@ strong {
 #foto-perfil {
     width: 200px;
     border-radius: 400px;
+    padding: 5px;
+    background-color: cornsilk;
 }
 
 h3 {
